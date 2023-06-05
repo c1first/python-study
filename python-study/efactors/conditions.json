@@ -1,0 +1,22 @@
+[
+ {
+   "Emission Factor": "Industrial Roads (Equation 1a)",
+   "Silt": "1.8-25.2",
+   "Mg": "1.8-260",
+   "ton": "2-290",
+   "kmh": "8-69",
+   "mph": "5-43",
+   "Wheels": "4-17",
+   "Moisture": "0.03-13"
+ },
+ {
+   "Emission Factor": "Public Roads (Equation 1b)",
+   "Silt": "1.8-35",
+   "Mg": "1.4-2.7",
+   "ton": "1.5-3",
+   "kmh": "16-88",
+   "mph": "10-55",
+   "Wheels": "4-4.8",
+   "Moisture": "0.03-13"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+   "Industry": "Copper smelting",
+   "Road Use Or Surface Material": "Plant road",
+   "Plant Sites": 1,
+   "No. Of Samples": 3,
+   "Silk Range": "16 - 19",
+   "Silk Mean": 17
+ },
+ {
+   "Industry": "Iron and steel production",
+   "Road Use Or Surface Material": "Plant road",
+   "Plant Sites": 19,
+   "No. Of Samples": 5,
+   "Silk Range": "0.2 - 19",
+   "Silk Mean": 6
+ },
+ {
+   "Industry": "Sand and gravel processing",
+   "Road Use Or Surface Material": "Plant road",
+   "Plant Sites": 1,
+   "No. Of Samples": 3,
+   "Silk Range": "4.1 - 6.0",
+   "Silk Mean": 4.8
+ },
+ {
+   "Industry": "Sand and gravel processing",
+   "Road Use Or Surface Material": "Material storage area",
+   "Plant Sites": 1,
+   "No. Of Samples": 1,
+   "Silk Range": "-",
+   "Silk Mean": 7.1
+ },
+ {
+   "Industry": "Stone quarrying and processing",
+   "Road Use Or Surface Material": "Plant road",
+   "Plant Sites": 2,
+   "No. Of Samples": 10,
+   "Silk Range": "2.4 - 16",
+   "Silk Mean": 10
+ },
+ {
+   "Industry": "Stone quarrying and processing",
+   "Road Use Or Surface Material": "Haul road to/from pit",
+   "Plant Sites": 4,
+   "No. Of Samples": 20,
+   "Silk Range": "5.0-15",
+   "Silk Mean": 8.3
+ },
+ {
+   "Industry": "Taconite mining and processing",
+   "Road Use Or Surface Material": "Service road",
+   "Plant Sites": 1,
+   "No. Of Samples": 8,
+   "Silk Range": "2.4 - 7.1",
+   "Silk Mean": 4.3
+ },
+ {
+   "Industry": "Taconite mining and processing",
+   "Road Use Or Surface Material": "Haul road to/from pit",
+   "Plant Sites": 1,
+   "No. Of Samples": 12,
+   "Silk Range": "3.9 - 9.7",
+   "Silk Mean": 5.8
+ },
+ {
+   "Industry": "Western surface coal mining",
+   "Road Use Or Surface Material": "Haul road to/from pit",
+   "Plant Sites": 3,
+   "No. Of Samples": 21,
+   "Silk Range": "2.8 - 18",
+   "Silk Mean": 8.4
+ },
+ {
+   "Industry": "Western surface coal mining",
+   "Road Use Or Surface Material": "Plant road",
+   "Plant Sites": 2,
+   "No. Of Samples": 2,
+   "Silk Range": "4.9 - 5.3",
+   "Silk Mean": 5.1
+ },
+ {
+   "Industry": "Western surface coal mining",
+   "Road Use Or Surface Material": "Scraper route",
+   "Plant Sites": 3,
+   "No. Of Samples": 10,
+   "Silk Range": "7.2 - 25",
+   "Silk Mean": 17
+ },
+ {
+   "Industry": "Western surface coal mining",
+   "Road Use Or Surface Material": "Haul road (freshly graded)",
+   "Plant Sites": 2,
+   "No. Of Samples": 5,
+   "Silk Range": "18 - 29",
+   "Silk Mean": 24
+ },
+ {
+   "Industry": "Construction sites",
+   "Road Use Or Surface Material": "Scraper routes",
+   "Plant Sites": 7,
+   "No. Of Samples": 20,
+   "Silk Range": "0.56-23",
+   "Silk Mean": 8.5
+ },
+ {
+   "Industry": "Lumber sawmills",
+   "Road Use Or Surface Material": "Log yards",
+   "Plant Sites": 2,
+   "No. Of Samples": 2,
+   "Silk Range": "4.8-12",
+   "Silk Mean": 8.4
+ },
+ {
+   "Industry": "Municipal solid waste landfills",
+   "Road Use Or Surface Material": "Disposal routes",
+   "Plant Sites": 4,
+   "No. Of Samples": 20,
+   "Silk Range": "2.2 - 21",
+   "Silk Mean": 6.4
+ }
+]

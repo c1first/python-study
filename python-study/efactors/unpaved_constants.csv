@@ -1,0 +1,7 @@
+Road,Constant,k ,a,b,c,d,Quality Rating
+Industrial Roads (Equation 1a),PM-2.5,0.15,0.9,0.45,NA,NA,B
+Industrial Roads (Equation 1a),PM-10,1.5,0.9,0.45,NA,NA,B
+Industrial Roads (Equation 1a),PM-30*,4.9,0.7,0.45,NA,NA,B
+Public Roads (Equation 1b),PM-2.5,0.18,1,NA,0.2,0.5,B
+Public Roads (Equation 1b),PM-10,1.8,1,NA,0.2,0.5,B
+Public Roads (Equation 1b),PM-30*,6,1,NA,0.3,0.3,B

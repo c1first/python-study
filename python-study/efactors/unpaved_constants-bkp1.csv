@@ -1,0 +1,10 @@
+Road,item,PM-2.5,PM-10,PM-30*
+Industrial Roads (Equation 1a),k (lb/VMT),0.15,1.5,4.9
+Industrial Roads (Equation 1a),a,0.9,0.9,0.7
+Industrial Roads (Equation 1a),b,0.45,0.45,0.45
+Industrial Roads (Equation 1a),Quality Rating,B,B,B
+Public Roads (Equation 1b),k (lb/VMT),0.18,1.8,6.0
+Public Roads (Equation 1b),a,1,1,1
+Public Roads (Equation 1b),c,0.2,0.2,0.3
+Public Roads (Equation 1b),d,0.5,0.5,0.3
+Public Roads (Equation 1b),Quality Rating,B,B,B

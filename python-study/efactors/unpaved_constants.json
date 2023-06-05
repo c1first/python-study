@@ -1,0 +1,62 @@
+[
+ {
+   "Road": "Industrial Roads (Equation 1a)",
+   "Constant": "PM-2.5",
+   "k": 0.15,
+   "a": 0.9,
+   "b": "0.45",
+   "c": "NA",
+   "d": "NA",
+   "Quality Rating": "B"
+ },
+ {
+   "Road": "Industrial Roads (Equation 1a)",
+   "Constant": "PM-10",
+   "k": 1.5,
+   "a": 0.9,
+   "b": "0.45",
+   "c": "NA",
+   "d": "NA",
+   "Quality Rating": "B"
+ },
+ {
+   "Road": "Industrial Roads (Equation 1a)",
+   "Constant": "PM-30*",
+   "k": 4.9,
+   "a": 0.7,
+   "b": "0.45",
+   "c": "NA",
+   "d": "NA",
+   "Quality Rating": "B"
+ },
+ {
+   "Road": "Public Roads (Equation 1b)",
+   "Constant": "PM-2.5",
+   "k": 0.18,
+   "a": 1,
+   "b": "NA",
+   "c": "0.2",
+   "d": "0.5",
+   "Quality Rating": "B"
+ },
+ {
+   "Road": "Public Roads (Equation 1b)",
+   "Constant": "PM-10",
+   "k": 1.8,
+   "a": 1,
+   "b": "NA",
+   "c": "0.2",
+   "d": "0.5",
+   "Quality Rating": "B"
+ },
+ {
+   "Road": "Public Roads (Equation 1b)",
+   "Constant": "PM-30*",
+   "k": 6,
+   "a": 1,
+   "b": "NA",
+   "c": "0.3",
+   "d": "0.3",
+   "Quality Rating": "B"
+ }
+]

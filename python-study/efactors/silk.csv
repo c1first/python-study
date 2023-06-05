@@ -1,0 +1,16 @@
+Industry,Road Use Or Surface Material,Plant Sites,No. Of Samples,Silk Range,Silk Mean
+Copper smelting,Plant road,1,3,16 - 19,17
+Iron and steel production,Plant road,19,5,0.2 - 19,6.0
+Sand and gravel processing,Plant road,1,3,4.1 - 6.0,4.8
+Sand and gravel processing,Material storage area,1,1,-,7.1
+Stone quarrying and processing,Plant road,2,10,2.4 - 16,10
+Stone quarrying and processing,Haul road to/from pit,4,20,5.0-15,8.3
+Taconite mining and processing,Service road,1,8,2.4 - 7.1,4.3
+Taconite mining and processing,Haul road to/from pit,1,12,3.9 - 9.7,5.8
+Western surface coal mining,Haul road to/from pit,3,21,2.8 - 18,8.4
+Western surface coal mining,Plant road,2,2,4.9 - 5.3,5.1
+Western surface coal mining,Scraper route,3,10,7.2 - 25,17
+Western surface coal mining,Haul road (freshly graded),2,5,18 - 29,24
+Construction sites,Scraper routes,7,20,0.56-23,8.5
+Lumber sawmills,Log yards,2,2,4.8-12,8.4
+Municipal solid waste landfills,Disposal routes,4,20,2.2 - 21,6.4			
